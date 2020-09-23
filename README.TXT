@@ -1,0 +1,1 @@
+You have to have icons in the icon directory listed in the FileType table in order for this to work.  Hope people get some use out of this code.
